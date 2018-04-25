@@ -14,6 +14,7 @@ public class VuestrosCarnes {
         Ya que lo tengan clonado le hacen algun cambio que se vea :v y le dan en commit y luego push y avisan para que los demas le demos pull
         */
         
+        System.out.println("Hola chicos");
     }
     
 }
